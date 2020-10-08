@@ -1,7 +1,7 @@
 # Kandilli Rasathanesi API
 Kandilli Rasathanesi'nin yayınladığı son depremler listesi için API. 
 
-> **INTERNET SITESI :** http://keremturker.com/deprem/api
+> **INTERNET SITESI :** http://localhost:portno/deprem/api
 
 ## Api Kullanım
 |   Api Adres      | Açıklama   | 
